@@ -13,8 +13,8 @@ html {
      box-sizing: inherit;
 }
 body {
+ 
      background-color: #eee;
-/*      background-color: var(--light); */
      font-family: 'Montserrat', sans-serif;
 }
 /** Globals **/
